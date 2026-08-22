@@ -16,16 +16,20 @@ My interest in archiving and preservation started after watching my favourite pi
 
 ## ୨୧ Contact ୨୧
 
-Please only contact me on the platforms listed below, attempts to contact me via methods not listed are unreliable and will likely result in me not receiving your attempt!
+*Before contacting me please understand solicitation messages are not welcome, if you've been asked to read my profile and just read this please understand you're a fool and just had your time wasted by a girl on the internet.*
 
-Also, `emily [at] kemonomimi.moe` is an inbox-only email, attempts to contact this email will be unsuccessful unless you provide alternative contact methods in your email.
+If you'd like to contact me I welcome you to use the options below, I commonly check my email as well as my Stoat and Matrix accounts.
 
-- <img src="https://www.google.com/s2/favicons?domain=stoat.chat.ico" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
-- <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@emily:kemonomimi.moe">Matrix</a>
-- <img src="https://www.google.com/s2/favicons?domain=www.rootapp.com.ico" width="16" valign="middle"> <a href="https://www.rootapp.com/">Root</a>; <code>OtakuEmily</code>
+Remember that *I am a minor*, any and all communication with me *can* be released at anytime *with* or *without* warning for my protection.
+
+Please don't attempt to contact or communicate with accounts **not listed** here unless you've confirmed that I own the account using my [GPG key](https://forge.kemonomimi.moe/OtakuEmily.gpg).
+
+- <img src="https://api.iconify.design/material-symbols:mail.svg" width="16" valign="middle"> Email; emily<img src="https://api.iconify.design/material-symbols:alternate-email.svg" width="13" valign="middle">kemonomimi.moe
+- <img src="https://cdn.simpleicons.org/revoltdotchat" width="16" valign="middle"> <a href="https://stoat.chat">Stoat.chat</a>; <code>OtakuEmily#6373</code>
+- <img src="https://cdn.simpleicons.org/matrix" width="16" valign="middle"> <a href="https://matrix.to/#/@OtakuEmily:matrix.org">Matrix</a>
+- <img src="https://cdn.simpleicons.org/rootapp" width="16" valign="middle"> <a href="https://www.rootapp.com/">Root</a>; <code>OtakuEmily</code>
 - <img src="https://cdn.simpleicons.org/bluesky" width="16" valign="middle"> <a href="https://bsky.app/profile/did:plc:lbqr5qcbc6jqcxlluekls6gf">Bluesky</a>
-- <img src="https://www.google.com/s2/favicons?domain=social.kemonomimi.moe.ico" width="16" valign="middle"> <a href="https://social.kemonomimi.moe/@OtakuEmily">Mastodon (Kemonosocial)</a>
-- <img src="https://www.google.com/s2/favicons?domain=fosstodon.org.ico" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
+- <img src="https://cdn.simpleicons.org/mastodon" width="16" valign="middle"> <a href="https://fosstodon.org/@OtakuEmily">Mastodon (Fosstodon)</a>
 
 <h2>୨୧ Academic record ୨୧</h2>
 
